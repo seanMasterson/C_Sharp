@@ -1,0 +1,6 @@
+C:\Users\Sean\Documents\Visual Studio 2015\Projects\Exercises 6 - Loops II\6_1\6_1\bin\Debug\6_1.exe.config
+C:\Users\Sean\Documents\Visual Studio 2015\Projects\Exercises 6 - Loops II\6_1\6_1\bin\Debug\6_1.exe
+C:\Users\Sean\Documents\Visual Studio 2015\Projects\Exercises 6 - Loops II\6_1\6_1\bin\Debug\6_1.pdb
+C:\Users\Sean\Documents\Visual Studio 2015\Projects\Exercises 6 - Loops II\6_1\6_1\obj\Debug\6_1.csprojResolveAssemblyReference.cache
+C:\Users\Sean\Documents\Visual Studio 2015\Projects\Exercises 6 - Loops II\6_1\6_1\obj\Debug\6_1.exe
+C:\Users\Sean\Documents\Visual Studio 2015\Projects\Exercises 6 - Loops II\6_1\6_1\obj\Debug\6_1.pdb

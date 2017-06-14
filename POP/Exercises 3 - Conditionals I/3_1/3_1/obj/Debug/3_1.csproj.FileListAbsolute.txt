@@ -1,0 +1,6 @@
+C:\Users\Sean\Documents\Visual Studio 2015\Projects\Exercises 3 - Conditionals I\3_1\3_1\bin\Debug\3_1.exe.config
+C:\Users\Sean\Documents\Visual Studio 2015\Projects\Exercises 3 - Conditionals I\3_1\3_1\bin\Debug\3_1.exe
+C:\Users\Sean\Documents\Visual Studio 2015\Projects\Exercises 3 - Conditionals I\3_1\3_1\bin\Debug\3_1.pdb
+C:\Users\Sean\Documents\Visual Studio 2015\Projects\Exercises 3 - Conditionals I\3_1\3_1\obj\Debug\3_1.csprojResolveAssemblyReference.cache
+C:\Users\Sean\Documents\Visual Studio 2015\Projects\Exercises 3 - Conditionals I\3_1\3_1\obj\Debug\3_1.exe
+C:\Users\Sean\Documents\Visual Studio 2015\Projects\Exercises 3 - Conditionals I\3_1\3_1\obj\Debug\3_1.pdb

@@ -1,0 +1,6 @@
+C:\Users\Sean\Documents\Visual Studio 2015\Projects\Exercises 4 - Conditionals II\4_2\4_2\bin\Debug\4_2.exe.config
+C:\Users\Sean\Documents\Visual Studio 2015\Projects\Exercises 4 - Conditionals II\4_2\4_2\bin\Debug\4_2.exe
+C:\Users\Sean\Documents\Visual Studio 2015\Projects\Exercises 4 - Conditionals II\4_2\4_2\bin\Debug\4_2.pdb
+C:\Users\Sean\Documents\Visual Studio 2015\Projects\Exercises 4 - Conditionals II\4_2\4_2\obj\Debug\4_2.csprojResolveAssemblyReference.cache
+C:\Users\Sean\Documents\Visual Studio 2015\Projects\Exercises 4 - Conditionals II\4_2\4_2\obj\Debug\4_2.exe
+C:\Users\Sean\Documents\Visual Studio 2015\Projects\Exercises 4 - Conditionals II\4_2\4_2\obj\Debug\4_2.pdb

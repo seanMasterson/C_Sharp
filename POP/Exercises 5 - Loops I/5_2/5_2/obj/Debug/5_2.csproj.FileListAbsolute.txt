@@ -1,0 +1,2 @@
+C:\Users\Sean\Documents\Visual Studio 2015\Projects\Exercises 5 - Loops I\5_2\5_2\bin\Debug\5_2.exe.config
+C:\Users\Sean\Documents\Visual Studio 2015\Projects\Exercises 5 - Loops I\5_2\5_2\obj\Debug\5_2.csprojResolveAssemblyReference.cache

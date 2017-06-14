@@ -1,0 +1,8 @@
+c:\users\sean\documents\visual studio 2015\Projects\1_5\1_5\bin\Debug\1_5.exe.config
+c:\users\sean\documents\visual studio 2015\Projects\1_5\1_5\bin\Debug\1_5.exe
+c:\users\sean\documents\visual studio 2015\Projects\1_5\1_5\bin\Debug\1_5.pdb
+c:\users\sean\documents\visual studio 2015\Projects\1_5\1_5\obj\Debug\1_5.exe
+c:\users\sean\documents\visual studio 2015\Projects\1_5\1_5\obj\Debug\1_5.pdb
+C:\Users\Sean\Documents\Visual Studio 2015\Projects\Exercises 1 - Basics I\1_5\1_5\bin\Debug\1_5.exe.config
+C:\Users\Sean\Documents\Visual Studio 2015\Projects\Exercises 1 - Basics I\1_5\1_5\obj\Debug\1_5.exe
+C:\Users\Sean\Documents\Visual Studio 2015\Projects\Exercises 1 - Basics I\1_5\1_5\obj\Debug\1_5.pdb

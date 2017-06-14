@@ -1,0 +1,15 @@
+c:\users\sean\documents\visual studio 2015\Projects\2_4\2_4\bin\Debug\2_4.exe.config
+c:\users\sean\documents\visual studio 2015\Projects\2_4\2_4\bin\Debug\2_4.exe
+c:\users\sean\documents\visual studio 2015\Projects\2_4\2_4\bin\Debug\2_4.pdb
+c:\users\sean\documents\visual studio 2015\Projects\2_4\2_4\obj\Debug\2_4.csprojResolveAssemblyReference.cache
+c:\users\sean\documents\visual studio 2015\Projects\2_4\2_4\obj\Debug\2_4.exe
+c:\users\sean\documents\visual studio 2015\Projects\2_4\2_4\obj\Debug\2_4.pdb
+C:\Users\Sean\Documents\Visual Studio 2015\Projects\Exercises 2 - Basics II\2_4\2_4\bin\Debug\2_4.exe.config
+C:\Users\Sean\Documents\Visual Studio 2015\Projects\Exercises 2 - Basics II\2_4\2_4\obj\Debug\2_4.exe
+C:\Users\Sean\Documents\Visual Studio 2015\Projects\Exercises 2 - Basics II\2_4\2_4\obj\Debug\2_4.pdb
+C:\Users\Sean\Documents\Visual Studio 2015\Projects\Exercises 2 - Basics II\2_4\2_4\bin\Debug\2_4.exe
+C:\Users\Sean\Documents\Visual Studio 2015\Projects\Exercises 2 - Basics II\2_4\2_4\bin\Debug\2_4.pdb
+C:\Users\Sean\Documents\Visual Studio 2015\Projects\Exercises 2 - Basics II\2_4\2_4\obj\Debug\2_4.csprojResolveAssemblyReference.cache
+C:\Users\Sean\Documents\Visual Studio 2015\Projects\C#\POP\Exercises 2 - Basics II\2_4\2_4\bin\Debug\2_4.exe.config
+C:\Users\Sean\Documents\Visual Studio 2015\Projects\C#\POP\Exercises 2 - Basics II\2_4\2_4\obj\Debug\2_4.exe
+C:\Users\Sean\Documents\Visual Studio 2015\Projects\C#\POP\Exercises 2 - Basics II\2_4\2_4\obj\Debug\2_4.pdb

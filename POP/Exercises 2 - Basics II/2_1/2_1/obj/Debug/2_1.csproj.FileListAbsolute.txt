@@ -1,0 +1,9 @@
+c:\users\sean\documents\visual studio 2015\Projects\2_1\2_1\bin\Debug\2_1.exe.config
+c:\users\sean\documents\visual studio 2015\Projects\2_1\2_1\bin\Debug\2_1.exe
+c:\users\sean\documents\visual studio 2015\Projects\2_1\2_1\bin\Debug\2_1.pdb
+c:\users\sean\documents\visual studio 2015\Projects\2_1\2_1\obj\Debug\2_1.csprojResolveAssemblyReference.cache
+c:\users\sean\documents\visual studio 2015\Projects\2_1\2_1\obj\Debug\2_1.exe
+c:\users\sean\documents\visual studio 2015\Projects\2_1\2_1\obj\Debug\2_1.pdb
+C:\Users\Sean\Documents\Visual Studio 2015\Projects\Exercises 2 - Basics II\2_1\2_1\bin\Debug\2_1.exe.config
+C:\Users\Sean\Documents\Visual Studio 2015\Projects\Exercises 2 - Basics II\2_1\2_1\obj\Debug\2_1.exe
+C:\Users\Sean\Documents\Visual Studio 2015\Projects\Exercises 2 - Basics II\2_1\2_1\obj\Debug\2_1.pdb

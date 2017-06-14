@@ -1,0 +1,6 @@
+C:\Users\Sean\Documents\Visual Studio 2015\Projects\14_2\14_2\bin\Debug\14_2.exe.config
+C:\Users\Sean\Documents\Visual Studio 2015\Projects\14_2\14_2\bin\Debug\14_2.exe
+C:\Users\Sean\Documents\Visual Studio 2015\Projects\14_2\14_2\bin\Debug\14_2.pdb
+C:\Users\Sean\Documents\Visual Studio 2015\Projects\14_2\14_2\obj\Debug\14_2.csprojResolveAssemblyReference.cache
+C:\Users\Sean\Documents\Visual Studio 2015\Projects\14_2\14_2\obj\Debug\14_2.exe
+C:\Users\Sean\Documents\Visual Studio 2015\Projects\14_2\14_2\obj\Debug\14_2.pdb

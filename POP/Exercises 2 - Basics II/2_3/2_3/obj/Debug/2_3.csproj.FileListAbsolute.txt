@@ -1,0 +1,12 @@
+c:\users\sean\documents\visual studio 2015\Projects\2_3\2_3\bin\Debug\2_3.exe.config
+c:\users\sean\documents\visual studio 2015\Projects\2_3\2_3\bin\Debug\2_3.exe
+c:\users\sean\documents\visual studio 2015\Projects\2_3\2_3\bin\Debug\2_3.pdb
+c:\users\sean\documents\visual studio 2015\Projects\2_3\2_3\obj\Debug\2_3.csprojResolveAssemblyReference.cache
+c:\users\sean\documents\visual studio 2015\Projects\2_3\2_3\obj\Debug\2_3.exe
+c:\users\sean\documents\visual studio 2015\Projects\2_3\2_3\obj\Debug\2_3.pdb
+C:\Users\Sean\Documents\Visual Studio 2015\Projects\Exercises 2 - Basics II\2_3\2_3\bin\Debug\2_3.exe.config
+C:\Users\Sean\Documents\Visual Studio 2015\Projects\Exercises 2 - Basics II\2_3\2_3\obj\Debug\2_3.exe
+C:\Users\Sean\Documents\Visual Studio 2015\Projects\Exercises 2 - Basics II\2_3\2_3\obj\Debug\2_3.pdb
+C:\Users\Sean\Documents\Visual Studio 2015\Projects\Exercises 2 - Basics II\2_3\2_3\bin\Debug\2_3.exe
+C:\Users\Sean\Documents\Visual Studio 2015\Projects\Exercises 2 - Basics II\2_3\2_3\bin\Debug\2_3.pdb
+C:\Users\Sean\Documents\Visual Studio 2015\Projects\Exercises 2 - Basics II\2_3\2_3\obj\Debug\2_3.csprojResolveAssemblyReference.cache

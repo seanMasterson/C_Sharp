@@ -1,0 +1,5 @@
+C:\Users\Sean\Documents\Visual Studio 2015\Projects\Exercises 6 - Loops II\6_2\6_2\bin\Debug\6_2.exe.config
+C:\Users\Sean\Documents\Visual Studio 2015\Projects\Exercises 6 - Loops II\6_2\6_2\bin\Debug\6_2.exe
+C:\Users\Sean\Documents\Visual Studio 2015\Projects\Exercises 6 - Loops II\6_2\6_2\bin\Debug\6_2.pdb
+C:\Users\Sean\Documents\Visual Studio 2015\Projects\Exercises 6 - Loops II\6_2\6_2\obj\Debug\6_2.exe
+C:\Users\Sean\Documents\Visual Studio 2015\Projects\Exercises 6 - Loops II\6_2\6_2\obj\Debug\6_2.pdb
